@@ -6,7 +6,7 @@
 
 - [`index.html`](index.html) - Initial landing page for the visualizaton
 
-- [`maxtemp.html`](./WebVisualization/maxtemp.html) - Max Temperature page that decribes the analysis for temperature across the latitudes
+- [`maxtemp.html`](./WebVisualizations/maxtemp.html) - Max Temperature page that decribes the analysis for temperature across the latitudes
 
 - [City Data](WeatherPy/output_data/cities.csv) - City data output file generate to be used by [VacationPy.ipynb](VacationPy/VacationPy.ipynb)
 
