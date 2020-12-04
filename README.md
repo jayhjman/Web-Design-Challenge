@@ -20,7 +20,7 @@
 
 - [`cities.csv`](./WebVisualizations/Resources/cities.csv) - The source cities data set in a csv form.
 
-- [`Import_Cities_Export_Html.ipynb`](./WebVisualizations/Import_Cities_Export_Html.ipynb) - Jupyter notebook used to convert CSV into HTML.
+- [`Import_Cities_Export_Html.ipynb`](./WebVisualizations/Import_Cities_Export_Html.ipynb) - Jupyter notebook used to convert [`cities.csv`](./WebVisualizations/Resources/cities.csv) into HTML.
 
 - [`cities.html`](./WebVisualizations/cities.html) - The html table structure used to help construct the [`data.html`](./WebVisualizations/data.html) page
 
