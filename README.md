@@ -8,11 +8,15 @@
 
 - [`maxtemp.html`](./WebVisualizations/maxtemp.html) - Max Temperature page that decribes the analysis for temperature across the latitudes
 
-- [City Data](WeatherPy/output_data/cities.csv) - City data output file generate to be used by [VacationPy.ipynb](VacationPy/VacationPy.ipynb)
+- [`humidity.html`](./WebVisualizations/humidity.html) - Humidity page that decribes the analysis for temperature across the latitudes
 
-- [City Data](WeatherPy/output_data/cities.csv) - City data which was generated from [WeatherPy.ipynb](WeatherPy/WeatherPy.ipynb)
+- [`cloudiness.html`](./WebVisualizations/cloudiness.html) - Cloudiness page that decribes the analysis for temperature across the latitudes
 
-- [VacationPy.ipynb](VacationPy/VacationPy.ipynb) - Jupyter Notebook for the Vacation Spots
+- [`windspeed.html`](./WebVisualizations/windspeed.html) - Wind Speed page that decribes the analysis for temperature across the latitudes
+
+- [`comparisions.html`](./WebVisualizations/comparisions.html) - Comparision page that Shows all 4 plots together (Max Temperature, Humidity, Cloudiness, and Wind Speed)
+
+- [`data.html`](./WebVisualizations/data.html) - Data page that displays the cities weather data set used for the visualization
 
 ## Results
 
