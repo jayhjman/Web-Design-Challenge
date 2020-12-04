@@ -8,11 +8,11 @@
 
 - [`maxtemp.html`](./WebVisualizations/maxtemp.html) - Max Temperature page that decribes the analysis for temperature across the latitudes
 
-- [`humidity.html`](./WebVisualizations/humidity.html) - Humidity page that decribes the analysis for temperature across the latitudes
+- [`humidity.html`](./WebVisualizations/humidity.html) - Humidity page that decribes the analysis for humidity across the latitudes
 
-- [`cloudiness.html`](./WebVisualizations/cloudiness.html) - Cloudiness page that decribes the analysis for temperature across the latitudes
+- [`cloudiness.html`](./WebVisualizations/cloudiness.html) - Cloudiness page that decribes the analysis for cloudiness across the latitudes
 
-- [`windspeed.html`](./WebVisualizations/windspeed.html) - Wind Speed page that decribes the analysis for temperature across the latitudes
+- [`windspeed.html`](./WebVisualizations/windspeed.html) - Wind Speed page that decribes the analysis for wind speed across the latitudes
 
 - [`comparisions.html`](./WebVisualizations/comparisions.html) - Comparision page that Shows all 4 plots together (Max Temperature, Humidity, Cloudiness, and Wind Speed)
 
