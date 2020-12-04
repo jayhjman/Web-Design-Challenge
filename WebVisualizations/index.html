@@ -12,11 +12,11 @@
 <body>
 
   <div class="container">
-    <div class="row  bg-light">
+    <div class="row  bg-info">
       <div class="col-md-12">
 
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
-          <a class="navbar-brand box-2 ecoblue" href="./index.html">Latitude</a>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-secondary">
+          <a class="navbar-brand box-2 bg-info" href="./index.html">Latitude</a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -54,11 +54,13 @@
 
     <!--Normally these medium columns go full wide on small screen sizes-->
     <div class="row bg-light">
-      <div class="col-md-7">
+      <div class="col-md-7 border">
         <div class="box-3">
           <h2>Summary: Latitude vs. X</h2>
           <hr />
-          <img class="textwrap custom-img-size-1" src="./visualizations/Fig1.png" width="175" height="175" />
+          <a href="maxtemp.html">
+            <img class="textwrap custom-img-size-1" src="./visualizations/Fig1.png" />
+          </a>
           The purpose of this project was to analyze how weather changes as
           you get closer to the equator. To accomplish this analysis, we first
           pulled data from the OpenWeatherMap API to assemble a dataset
@@ -72,7 +74,7 @@
           and descriptions of any trends and correlations.
         </div>
       </div>
-      <div class="col-md-5">
+      <div class="col-md-5 border">
         <div class="box-3 bg-light">
           <h2>Visualizations</h2>
           <hr />

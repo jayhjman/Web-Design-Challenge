@@ -41,7 +41,7 @@
 }
 
 .ecoblue {
-  background: rgb(151, 201, 226);
+  background: rgb(77, 127, 152);
 }
 
 .active-image {
@@ -82,4 +82,17 @@
   max-height: 400px;
   width: 100%;
   height: auto;
+}
+
+.custom-img-size-4 {
+  max-width: 500px;
+  max-height: 500px;
+  width: 100%;
+  height: auto;
+}
+
+h2 {
+  color: #5bc0de;
+  font-style: italic;
+  font-weight: 900;
 }
