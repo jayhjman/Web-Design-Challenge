@@ -1,6 +1,6 @@
 # Latitudes Weather Analysis Visualization
 
-- **_Latitudes Weather Analysis_** - Is a [HTML Visualization](https://jayhjman.github.io/Web-Design-Challenge/) that summarizes a weather analysis on a set ~500 cities in the given data set. These cities are then applied to a series of plots that compare latitude to 4 weather attributes, Max Temp, Humiditiy, Cloudiness, and Wind Speed.
+- **_Latitudes Weather Analysis_** - Is a [HTML Visualization](https://jayhjman.github.io/Web-Design-Challenge/){:target="\_blank"} that summarizes a weather analysis on a set ~500 cities in the given data set. These cities are then applied to a series of plots that compare latitude to 4 weather attributes, Max Temp, Humiditiy, Cloudiness, and Wind Speed.
 
 ## Files
 
@@ -24,7 +24,7 @@
 
 ## Analysis
 
-- Please see the Visualization pages are the URL given in the results
+- Please see the Visualization pages at the URL given in the results
 
 ## Execution
 
