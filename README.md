@@ -26,13 +26,13 @@
 
 - [`style.css`](./WebVisualizations/assets/style.css) - The CSS style sheet needed to apply custom formatting outside of bootstrap
 
-- [`fig1.png`](./WebVisualizations/visualizations/fig1.png) - Max Temperature image plot
+- [`Fig1.png`](./WebVisualizations/visualizations/Fig1.png) - Max Temperature image plot
 
-- [`fig2.png`](./WebVisualizations/visualizations/fig2.png) - Humidity image plot
+- [`Fig2.png`](./WebVisualizations/visualizations/Fig2.png) - Humidity image plot
 
-- [`fig3.png`](./WebVisualizations/visualizations/fig3.png) - Cloudiness image plot
+- [`Fig3.png`](./WebVisualizations/visualizations/Fig3.png) - Cloudiness image plot
 
-- [`fig4.png`](./WebVisualizations/visualizations/fig4.png) - Wind Speed image plot
+- [`Fig4.png`](./WebVisualizations/visualizations/Fig4.png) - Wind Speed image plot
 
 ## Results
 
