@@ -6,6 +6,24 @@
   color: black;
 }
 
+.box-2 {
+  min-height: 40px;
+  padding: 15px;
+  font-weight: 800;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-style: italic;
+  color: #fff;
+  border-radius: 5px;
+}
+
+.box-3 {
+  padding: 5px;
+  margin: 8px;
+  font-weight: 500;
+  color: black;
+}
+
 .skyblue {
   background: deepskyblue;
 }
@@ -26,24 +44,6 @@
   background: rgb(151, 201, 226);
 }
 
-.box-2 {
-  min-height: 40px;
-  padding: 15px;
-  font-weight: 800;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-  font-style: italic;
-  color: #fff;
-  border-radius: 5px;
-}
-
-.box-3 {
-  padding: 5px;
-  margin: 8px;
-  font-weight: 500;
-  color: black;
-}
-
 .active-image {
   padding: 1px;
   border: 3px solid blue;
@@ -56,4 +56,30 @@
 }
 .table-wrapper-scroll-y {
   display: block;
+}
+
+.textwrap {
+  float: left;
+  margin: 10px;
+}
+
+.custom-img-size-1 {
+  max-width: 325px;
+  max-height: 325px;
+  width: 100%;
+  height: auto;
+}
+
+.custom-img-size-2 {
+  max-width: 205px;
+  max-height: 205px;
+  width: 100%;
+  height: auto;
+}
+
+.custom-img-size-3 {
+  max-width: 600px;
+  max-height: 400px;
+  width: 100%;
+  height: auto;
 }
